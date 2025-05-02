@@ -1,0 +1,26 @@
+.about {
+    height: 165px;
+    background-color: #c8c10d;
+    text-align: center;
+    padding: 47px 0;
+}
+
+.about div {
+    display: inline-block;
+    gap: 50px;
+    margin: 0 70px;
+}
+
+.about .p_about {
+    font-size: 20px;
+    color: #ffffff;
+    font-family: latoB;
+    font-weight: 400;
+    text-align: center;
+    
+}
+
+.about a {
+    text-decoration: none;
+}
+

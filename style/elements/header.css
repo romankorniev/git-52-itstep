@@ -1,0 +1,66 @@
+header {
+  background-color: #eae8e9;
+  padding: 35px 0;
+}
+
+header nav{
+  float: right;
+}
+
+header nav ul li{
+  float: left;
+}
+
+li {
+  margin-top: 15px;
+}
+
+
+header a{
+  font-size: 15px;
+  color: #7a6666;
+  font-family: latoR;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+  width: 140px;
+  text-align: center;
+  display: inline-block;
+  line-height: 25px;
+}
+
+header nav.active{
+  color: #cb3362;
+}
+  
+header nav a:hover{
+  color: #c8c10d;
+}
+
+
+header nav ul .drop-list ul{
+  display: none;
+  margin-top: -30px;
+}
+
+header nav ul .drop-list:hover ul{
+  display: block; 
+}
+
+
+header h1 a{
+  color: #cb3362;
+  font-size: 30px;
+  font-family: RammettoOne;
+  text-transform: capitalize;
+}
+
+header h1 a span {
+  color: #c8c10d;
+}
+
+header h1 a img{
+  position: relative;
+  left: 40px;
+  top: 4px;
+}
