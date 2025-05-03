@@ -1,0 +1,12 @@
+.name-page {
+    background-color: #c8c10d;
+}
+
+.name-page h3 {
+    font-family: LatoB;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding: 25px;
+    font-weight: 100;
+}

@@ -4,11 +4,15 @@
 @import url(./elements/featured.css);
 @import url(./elements/about.css);
 @import url(./elements/footer.css);
+@import url(./elements/name.css);
+@import url(./elements/about_text.css);
+@import url(./elements/content.css);
 
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{
   margin: 0;
   padding: 0;
 }
+
 ul,ol{
   list-style-type: none;
 }

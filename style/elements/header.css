@@ -29,7 +29,7 @@ header a{
   line-height: 25px;
 }
 
-header nav.active{
+header nav .active{
   color: #cb3362;
 }
   
