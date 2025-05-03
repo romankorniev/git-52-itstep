@@ -1,0 +1,45 @@
+.section1 {
+    display: inline-block;
+    text-align: left;
+    margin: 55px 0;
+  }
+  
+  .product1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 220px;
+  }
+  
+  .product1 h4 {
+    color: #cb3362;
+    font-family: Magra;
+    font-size: 30px;
+    padding: 10px 5px;
+  }
+  
+  .product1 p {
+    color: #7a6666;
+    font-family: Roboto;
+  }
+  
+  .img_content {
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .img_content .item {
+    display: inline-block;
+  }
+  
+  .section1 img {
+    width: 220px;
+    height: 174px;
+  }
+  
+  .img_content h3 {
+    color: #e94d7f;
+    font-family: Roboto;
+    font-size: 20px;
+    margin-top: 8px;
+  } 
+
