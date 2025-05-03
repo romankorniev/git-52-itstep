@@ -83,3 +83,28 @@
     left: 350px;
     bottom: 40px;
 }
+
+.single h4{
+    color: #cb3362;
+    font-family: LatoB;
+    margin: 20px;
+}
+
+.single h5{
+    color: #7a6666;
+    font-family: Roboto;
+    font-weight: 100;
+    margin: 20px;
+}
+
+.single{
+    width: 550px;
+    height: 600px;
+    margin-bottom: 100px;
+}
+
+.single p{
+    color: #7a6666;
+    font-family: Roboto;
+    font-size: 13px;
+}
