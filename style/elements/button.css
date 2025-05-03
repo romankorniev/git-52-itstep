@@ -1,0 +1,16 @@
+.btn {
+    border: 2px solid #c8a2ab;
+    color: #c8a2ab;
+    text-transform: uppercase;
+    font-family: LatoB;
+    font-size: 14px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.5s;
+    padding: 10px 25px;
+  }
+  
+  .btn:hover {
+    background-color: #c8a2ab;
+    color: white;
+  }
