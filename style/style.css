@@ -10,6 +10,7 @@
 @import url(./elements/products.css);
 @import url(./elements/blog.css);
 @import url(./elements/button.css);
+@import url(./elements/contact.css);
 
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{
   margin: 0;
